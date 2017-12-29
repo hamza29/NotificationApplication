@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationApplication</string>
+    <string name="title_activity_b">ActivityB</string>
+</resources>
